@@ -4,7 +4,7 @@ _A responsive real-time web chat application with Google authentication_
 
 <br/>
 
-**Link to the Web App:** [https://firechat-now.vercel.app/](https://firechat-now.vercel.app/)
+**Link to the Web App:** [https://firechat-mrq1yrgjr-cz35iek.vercel.app/](https://firechat-mrq1yrgjr-cz35iek.vercel.app/)
 
 <br/>
 
